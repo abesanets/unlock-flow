@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Unlock Flow</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <main>
+      <header class="header">
+        <div class="brand">
+          <img class="mark" src="icons/icon32.png" width="18" height="18" alt="" />
+          <span class="title" data-i18n="popupTitle">Unlock Flow</span>
+        </div>
+        <input id="enabled" type="checkbox" role="switch" aria-label="Toggle Unlock Flow" disabled />
+      </header>
+
+      <p id="status" class="status" role="status" data-i18n="statusChecking">Checking…</p>
+      <p id="error" class="error" role="alert"></p>
+
+      <div class="actions">
+        <button id="open" class="primary" data-i18n="buttonOpen">Open Flow</button>
+        <button id="refresh" class="secondary" data-i18n="buttonRefresh">Refresh</button>
+      </div>
+    </main>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

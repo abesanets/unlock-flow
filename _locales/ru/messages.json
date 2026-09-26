@@ -1,0 +1,65 @@
+{
+  "extName": {
+    "message": "Unlock Flow",
+    "description": "Название расширения."
+  },
+  "extDesc": {
+    "message": "Разблокировка интерфейса Google Flow для регионов с ограничениями (РФ, РБ).",
+    "description": "Описание расширения в chrome://extensions."
+  },
+  "actionTitle": {
+    "message": "Unlock Flow",
+    "description": "Подсказка кнопки на панели инструментов."
+  },
+  "popupTitle": {
+    "message": "Unlock Flow"
+  },
+  "statusChecking": {
+    "message": "Проверка…"
+  },
+  "statusEnabled": {
+    "message": "Включено · Переоткройте вкладку Flow"
+  },
+  "statusDisabled": {
+    "message": "Отключено"
+  },
+  "statusApplied": {
+    "message": "Разблокировано и активно"
+  },
+  "statusAlreadyEnabled": {
+    "message": "Активно · Доступ открыт"
+  },
+  "statusArmed": {
+    "message": "Готово · Ожидание Flow"
+  },
+  "statusNoConfigEntry": {
+    "message": "Проверка не обнаружена · Обновите вкладку"
+  },
+  "statusSchemaMismatch": {
+    "message": "Формат изменился · Требуется обновление"
+  },
+  "statusFrameMismatch": {
+    "message": "Фрейминг изменился · Требуется обновление"
+  },
+  "statusNotLoaded": {
+    "message": "Переоткройте вкладку для активации"
+  },
+  "statusSaved": {
+    "message": "Сохранено · Переоткройте вкладку Flow"
+  },
+  "errorSaveFailed": {
+    "message": "Не удалось сохранить настройку"
+  },
+  "errorPickFlowTab": {
+    "message": "Сначала выберите вкладку Flow"
+  },
+  "errorUnexpected": {
+    "message": "Что-то пошло не так"
+  },
+  "buttonOpen": {
+    "message": "Открыть Flow"
+  },
+  "buttonRefresh": {
+    "message": "Обновить"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "extName": {
+    "message": "Unlock Flow",
+    "description": "Extension name."
+  },
+  "extDesc": {
+    "message": "Unlock Flow interface for Google Flow.",
+    "description": "Extension description shown in chrome://extensions."
+  },
+  "actionTitle": {
+    "message": "Unlock Flow",
+    "description": "Toolbar button tooltip."
+  },
+  "popupTitle": {
+    "message": "Unlock Flow"
+  },
+  "statusChecking": {
+    "message": "Checking…"
+  },
+  "statusEnabled": {
+    "message": "Enabled · Reopen Flow tab"
+  },
+  "statusDisabled": {
+    "message": "Disabled"
+  },
+  "statusApplied": {
+    "message": "Unlocked and active"
+  },
+  "statusAlreadyEnabled": {
+    "message": "Active · Access available"
+  },
+  "statusArmed": {
+    "message": "Ready · Waiting for Flow"
+  },
+  "statusNoConfigEntry": {
+    "message": "No check seen yet · Refresh tab"
+  },
+  "statusSchemaMismatch": {
+    "message": "Format changed · Needs update"
+  },
+  "statusFrameMismatch": {
+    "message": "Framing changed · Needs update"
+  },
+  "statusNotLoaded": {
+    "message": "Reopen tab to activate"
+  },
+  "statusSaved": {
+    "message": "Saved · Reopen Flow tab"
+  },
+  "errorSaveFailed": {
+    "message": "Failed to save setting"
+  },
+  "errorPickFlowTab": {
+    "message": "Select a Flow tab first"
+  },
+  "errorUnexpected": {
+    "message": "Something went wrong"
+  },
+  "buttonOpen": {
+    "message": "Open Flow"
+  },
+  "buttonRefresh": {
+    "message": "Refresh"
+  }
+}
